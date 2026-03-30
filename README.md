@@ -1,12 +1,4 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=007BFF&center=true&vCenter=true&width=600&height=50&lines=Hi,+I'm+Jiraphat+Kaewdee+👋;Computer+Science+Student;Network+Engineering+Enthusiast;Welcome+to+my+GitHub!+" alt="Typing SVG" />
-  </a>
-</h1>
 
-<h3 align="center">Building the infrastructure of tomorrow, today. 🌐</h3>
-
-<br/>
 
 ## 👨‍💻 About Me
 
