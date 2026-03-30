@@ -8,9 +8,7 @@
 ## 🚀 Portfolio & Featured Projects
 
 - 💼 **[My Personal Portfolio](https://github.com/Awmax001/Project_2026_TIA-Inter-verse-Architecture.git)** 👈 
-- 📡 **[Network Assignments & Labs Repository](https://github.com/Awmax001/Network_ALL_Assignmet_And_Lab)** - My comprehensive collection of networking coursework, Packet Tracer labs, Docker compose architectures, and documentation.
-- ♾️ **The Living Existence Network (LEN)** - An ongoing comprehensive network architecture project featuring dual simulation and advanced routing.
-- 🖐️ **Hand Gesture Recognition** - Computer vision and object detection project focusing on classifying hand gestures.
+- 📡 **[Network Assignments & Labs Repository](https://github.com/Awmax001/Network_ALL_Assignmet_And_Lab)** - My comprehensive collection of networking coursework, Packet Tracer labs, Docker compose architectures, and documentation
 
 <br/>
 
