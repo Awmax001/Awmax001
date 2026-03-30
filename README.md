@@ -11,10 +11,6 @@
 ## 👨‍💻 About Me
 
 - 🎓 I'm a **Computer Science** student with a strong passion for **Network Engineering** and infrastructure design.
-- 🔭 I'm currently working on building **The Living Existence Network (LEN)**.
-- 💡 Exploring and developing projects in areas like **Hand Gesture Recognition** and secure microservices.
-- 🌱 I’m constantly learning about advanced networking protocols, Docker automation, and system resilience.
-
 <br/>
 
 ## 🚀 Portfolio & Featured Projects
