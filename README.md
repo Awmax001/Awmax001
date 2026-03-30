@@ -14,7 +14,15 @@
 - 🔭 I'm currently working on building **The Living Existence Network (LEN)**.
 - 💡 Exploring and developing projects in areas like **Hand Gesture Recognition** and secure microservices.
 - 🌱 I’m constantly learning about advanced networking protocols, Docker automation, and system resilience.
-- 📫 How to reach me: **[maxky7428@gmail.com](mailto:maxky7428@gmail.com)**
+
+<br/>
+
+## 🚀 Portfolio & Featured Projects
+
+- 💼 **[My Personal Portfolio](https://ลิงก์เว็บพอร์ตโฟลิโอของคุณ.com)** 👈 *(อย่าลืมเปลี่ยนตรงนี้เป็นลิงก์เว็บพอร์ตของคุณนะครับ)*
+- 📡 **[Network Assignments & Labs Repository](https://github.com/Awmax001/Network_ALL_Assignmet_And_Lab)** - My comprehensive collection of networking coursework, Packet Tracer labs, Docker compose architectures, and documentation.
+- ♾️ **The Living Existence Network (LEN)** - An ongoing comprehensive network architecture project featuring dual simulation and advanced routing.
+- 🖐️ **Hand Gesture Recognition** - Computer vision and object detection project focusing on classifying hand gestures.
 
 <br/>
 
@@ -40,3 +48,7 @@
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awmax001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
+
+<br/>
+
+📫 **Contact me:** [maxky7428@gmail.com](mailto:maxky7428@gmail.com)
